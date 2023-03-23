@@ -1,6 +1,6 @@
 I'm a professional software engineer, working in the ecommerce space, currently obsessed (like about half the world) with rust. I'm a fan of literate programming, and living documentation in general. I've written extensive documentation, training and onboarding guides for many languages and stacks. 
 
-I daily drive on the job in Go, PHP, Typescript and, recently, Ruby. I write Rust in my free time and as a side gig. I've worked professionally in Python, Perl, and Java, with a little bit of TCL and C#. A long time ago I wrote C and C++, but don't remember enough to be of any use. 
+I currently work daily in Go, PHP, Typescript and, recently, Ruby. I write Rust in my free time and as a side gig. In the past, I've worked professionally in Python, Perl, and Java, with a little bit of TCL and C#. I came from a network background -- administering data and voice networks, troubleshooting, deploying changes. A long time ago I wrote C and C++, but don't remember enough to be of any use. 
 
 Don't bother contacting me about a job. I'm not looking and this isn't the place.
 
